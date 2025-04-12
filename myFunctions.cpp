@@ -38,6 +38,6 @@ string printMyVec(vector<int> tested) {
         return temp;
     }
     else {
-        return "";
+        return "ERROR EMPTY VECTOR";
     }
 }
